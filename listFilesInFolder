@@ -3,7 +3,7 @@ import requests
 
 #This script can be used to search for all files in a single folder
 #and display the name ane the nodeid
-#version 1
+#version 1.0
 #4/10/2022
 #author: Robert Wilds
 
